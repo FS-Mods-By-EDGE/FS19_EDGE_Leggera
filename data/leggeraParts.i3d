@@ -2,7 +2,7 @@
 
 <i3D name="Leggera" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
   <Asset>
-    <Export program="GIANTS Editor 64bit" version="8.2.0"/>
+    <Export program="GIANTS Editor 64bit" version="8.2.2"/>
   </Asset>
 
   <Files>
@@ -23,54 +23,54 @@
   </Dynamics>
 
   <Scene>
-    <Shape shapeId="1" name="EDGE_LeggeraX2_vis" static="true" nodeId="32" materialIds="4" castsShadows="true" receiveShadows="true">
-      <Shape shapeId="2" name="cultiPlowFootPart00" static="true" nodeId="33" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="3" name="bolt_Decals00" static="true" nodeId="34" materialIds="4" castsShadows="true" receiveShadows="true"/>
+    <Shape shapeId="1" name="EDGE_LeggeraX2_vis" static="true" nodeId="36" materialIds="4" castsShadows="true" receiveShadows="true">
+      <Shape shapeId="2" name="cultiPlowFootPart00" static="true" nodeId="37" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="3" name="bolt_Decals00" static="true" nodeId="38" materialIds="4" castsShadows="true" receiveShadows="true"/>
       </Shape>
-      <Shape shapeId="4" name="cultiPlowFootPart01" translation="0 0.571966 0.0419518" scale="1.6 1.6 1.6" static="true" nodeId="35" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="5" name="bolt_Decals01" translation="0 -0.357479 -0.0141282" scale="0.625 0.625 0.625" static="true" nodeId="36" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="4" name="cultiPlowFootPart01" translation="0 0.571966 0.0419518" scale="1.6 1.6 1.6" static="true" nodeId="39" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="5" name="bolt_Decals01" translation="0 -0.357479 -0.0141282" scale="0.625 0.625 0.625" static="true" nodeId="40" materialIds="4" castsShadows="true" receiveShadows="true"/>
       </Shape>
-      <Shape shapeId="6" name="cultiPlowFootPart02" translation="0 0 0.999822" static="true" nodeId="37" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="7" name="bolt_Decals02" static="true" nodeId="38" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="6" name="cultiPlowFootPart02" translation="0 0 0.999822" static="true" nodeId="41" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="7" name="bolt_Decals02" static="true" nodeId="42" materialIds="4" castsShadows="true" receiveShadows="true"/>
       </Shape>
-      <Shape shapeId="8" name="cultiPlowFootPart03" translation="-0.225 0.571966 0.0593149" scale="1.6 1.6 1.6" static="true" nodeId="39" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="9" name="bolt_Decals03" translation="0 -0.357479 -0.0141281" scale="0.625 0.625 0.625" static="true" nodeId="40" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="8" name="cultiPlowFootPart03" translation="-0.225 0.571966 0.0593149" scale="1.6 1.6 1.6" static="true" nodeId="43" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="9" name="bolt_Decals03" translation="0 -0.357479 -0.0141281" scale="0.625 0.625 0.625" static="true" nodeId="44" materialIds="4" castsShadows="true" receiveShadows="true"/>
       </Shape>
-      <Shape shapeId="10" name="cultiPlowFootPart04" static="true" nodeId="41" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="11" name="bolt_Decals04" static="true" nodeId="42" materialIds="4" castsShadows="true" receiveShadows="true"/>
-      </Shape>
-    </Shape>
-    <Shape shapeId="12" name="EDGE_LeggeraX2LeftArm_vis" static="true" nodeId="43" materialIds="4" castsShadows="true" receiveShadows="true">
-      <Shape shapeId="13" name="hydraulicLeftOuterArm" translation="0.671335 0.77944 0.000895023" static="true" nodeId="44" materialIds="4" castsShadows="true" receiveShadows="true"/>
-      <Shape shapeId="14" name="hydraulicLeftOuterArmPunch" translation="0.488085 0.77976 0.000895083" static="true" nodeId="45" materialIds="4" castsShadows="true" receiveShadows="true"/>
-      <Shape shapeId="15" name="cultiPlowFootPartLeft00" static="true" nodeId="46" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="16" name="bolt_DecalsLeft00" static="true" nodeId="47" materialIds="4" castsShadows="true" receiveShadows="true"/>
-      </Shape>
-      <Shape shapeId="17" name="cultiPlowFootPartLeft01" static="true" nodeId="48" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="18" name="bolt_DecalsLeft01" static="true" nodeId="49" materialIds="4" castsShadows="true" receiveShadows="true"/>
-      </Shape>
-      <Shape shapeId="15" name="cultiPlowFootPartLeft02" translation="0 0 0.999822" static="true" nodeId="50" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="16" name="bolt_DecalsLeft02" static="true" nodeId="51" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="10" name="cultiPlowFootPart04" static="true" nodeId="45" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="11" name="bolt_Decals04" static="true" nodeId="46" materialIds="4" castsShadows="true" receiveShadows="true"/>
       </Shape>
     </Shape>
-    <Shape shapeId="19" name="EDGE_LeggeraX2RightArm_vis" static="true" nodeId="52" materialIds="4" castsShadows="true" receiveShadows="true">
-      <Shape shapeId="20" name="hydraulicRightOuterArm" static="true" nodeId="53" materialIds="4" castsShadows="true" receiveShadows="true"/>
-      <Shape shapeId="21" name="hydraulicRightOuterArmPunch" static="true" nodeId="54" materialIds="4" castsShadows="true" receiveShadows="true"/>
-      <Shape shapeId="22" name="hydraulicRightOuterArmPart" static="true" nodeId="55" materialIds="4" castsShadows="true" receiveShadows="true"/>
-      <Shape shapeId="23" name="cultiPlowFootPartRight00" static="true" nodeId="56" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="24" name="bolt_DecalsRight00" static="true" nodeId="57" materialIds="4" castsShadows="true" receiveShadows="true"/>
+    <Shape shapeId="12" name="EDGE_LeggeraX2LeftArm_vis" static="true" nodeId="47" materialIds="4" castsShadows="true" receiveShadows="true">
+      <Shape shapeId="13" name="hydraulicLeftOuterArm" translation="0.671335 0.77944 0.000895023" static="true" nodeId="48" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="14" name="hydraulicLeftOuterArmPunch" translation="0.488085 0.77976 0.000895083" static="true" nodeId="49" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="15" name="cultiPlowFootPartLeft00" static="true" nodeId="50" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="16" name="bolt_DecalsLeft00" static="true" nodeId="51" materialIds="4" castsShadows="true" receiveShadows="true"/>
       </Shape>
-      <Shape shapeId="25" name="cultiPlowFootPartRight01" static="true" nodeId="58" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="26" name="bolt_DecalsRight01" static="true" nodeId="59" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="17" name="cultiPlowFootPartLeft01" static="true" nodeId="52" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="18" name="bolt_DecalsLeft01" static="true" nodeId="53" materialIds="4" castsShadows="true" receiveShadows="true"/>
       </Shape>
-      <Shape shapeId="23" name="cultiPlowFootPartRight02" translation="0 0 0.999822" static="true" nodeId="60" materialIds="4" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="24" name="bolt_DecalsRight02" static="true" nodeId="61" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="15" name="cultiPlowFootPartLeft02" translation="0 0 0.999822" static="true" nodeId="54" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="16" name="bolt_DecalsLeft02" static="true" nodeId="55" materialIds="4" castsShadows="true" receiveShadows="true"/>
       </Shape>
     </Shape>
-    <Shape shapeId="27" name="EDGE_Leggera2_part" static="true" nodeId="74" materialIds="4" castsShadows="true" receiveShadows="true"/>
-    <Shape shapeId="28" name="EDGE_Leggera3_part" static="true" nodeId="75" materialIds="4" castsShadows="true" receiveShadows="true"/>
-    <Shape shapeId="29" name="EDGE_Leggera2_vis" static="true" nodeId="76" materialIds="4" castsShadows="true" receiveShadows="true"/>
-    <Shape shapeId="30" name="EDGE_Leggera3_vis" static="true" nodeId="77" materialIds="4" castsShadows="true" receiveShadows="true"/>
+    <Shape shapeId="19" name="EDGE_LeggeraX2RightArm_vis" static="true" nodeId="56" materialIds="4" castsShadows="true" receiveShadows="true">
+      <Shape shapeId="20" name="hydraulicRightOuterArm" static="true" nodeId="57" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="21" name="hydraulicRightOuterArmPunch" static="true" nodeId="58" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="22" name="hydraulicRightOuterArmPart" static="true" nodeId="59" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="23" name="cultiPlowFootPartRight00" static="true" nodeId="60" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="24" name="bolt_DecalsRight00" static="true" nodeId="61" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      </Shape>
+      <Shape shapeId="25" name="cultiPlowFootPartRight01" static="true" nodeId="62" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="26" name="bolt_DecalsRight01" static="true" nodeId="63" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      </Shape>
+      <Shape shapeId="23" name="cultiPlowFootPartRight02" translation="0 0 0.999822" static="true" nodeId="64" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="24" name="bolt_DecalsRight02" static="true" nodeId="65" materialIds="4" castsShadows="true" receiveShadows="true"/>
+      </Shape>
+    </Shape>
+    <Shape shapeId="27" name="EDGE_Leggera2_part" visibility="false" static="true" nodeId="66" materialIds="4" castsShadows="true" receiveShadows="true"/>
+    <Shape shapeId="28" name="EDGE_Leggera3_part" visibility="false" static="true" nodeId="67" materialIds="4" castsShadows="true" receiveShadows="true"/>
+    <Shape shapeId="29" name="EDGE_Leggera2_vis" visibility="false" static="true" nodeId="68" materialIds="4" castsShadows="true" receiveShadows="true"/>
+    <Shape shapeId="30" name="EDGE_Leggera3_vis" visibility="false" static="true" nodeId="69" materialIds="4" castsShadows="true" receiveShadows="true"/>
   </Scene>
 
 </i3D>
